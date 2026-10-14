@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+pydantic-settings
+python-dotenv
